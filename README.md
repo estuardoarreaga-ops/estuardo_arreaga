@@ -12,6 +12,7 @@ Estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y
 *Aquí puedes enlazar tus repositorios:*
 1. **[Gestion de biblioteca ]** -[ gestion de biblioteca que resuelve y facilita la gestion de reservas, multas y prestamos de libros ](https://github.com/estuardoarreaga-ops/Gestion_Biblioteca.)
 2. **[Script en Python o C++]** -[](https://github.com/estuardoarreaga-ops/Gestion_Biblioteca.)
+3. * [📚 Gestión de Biblioteca](https://github.com/estuardoarreaga-ops/Gestion_Biblioteca)**: Sistema en Java y MySQL con arquitectura de capas para el control de inventarios y préstamos bibliotecarios.`
 
 ### 📫 Conectemos
 - **LinkedIn:** -[](https://www.linkedin.com/in/estuardo-arreaga-61b245360/)
